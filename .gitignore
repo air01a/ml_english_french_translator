@@ -1,3 +1,8 @@
+#Heavy File
+data/pairs.txt
+data/vectorized.pickle
+data/posenc-2048-512.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,6 +30,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+Scripts/
+share/
+pyvenv.cfg
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
